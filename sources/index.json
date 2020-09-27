@@ -1,3 +1,5 @@
 {
-    "test":1
+    "National Geographic":{
+        "image": "https://assets.nationalgeographic.com/styleguide/stable/logos/ng-logo-2fl.svg"
+    }
 }
