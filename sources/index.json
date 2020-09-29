@@ -1,5 +1,8 @@
 {
     "National Geographic":{
         "image": "https://assets.nationalgeographic.com/styleguide/stable/logos/ng-logo-2fl.svg"
+    },
+    "Uffizi Galleries":{
+        "image": "https://upload.wikimedia.org/wikipedia/commons/2/27/Logo_Uffizi.jpg"
     }
 }
