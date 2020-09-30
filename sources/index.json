@@ -6,5 +6,28 @@
     "Uffizi Galleries":{
         "image": "https://rigelapp.com/rigel-resources.github.io/sources/images/uffiziGalleries.png",
         "weight": 6
+    },
+    "Nautilus":{
+        "image": "https://rigelapp.com/rigel-resources.github.io/sources/images/nautilus.png",
+        "weight": 8
+    },
+    "Following Hadrian":{
+        "image": "",
+        "weight": 7
+    },
+    "Sparkonit":{
+        "image": "",
+        "weight": 6
+    },
+    "Science Focus":{
+        "image": "",
+        "weight": 8
+    },
+    "History Today":{
+        "image": "",
+        "weight":  10
     }
+
+
+    
 }
