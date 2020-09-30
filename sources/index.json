@@ -1,8 +1,10 @@
 {
     "National Geographic":{
-        "image": "https://rigelapp.com/rigel-resources.github.io/sources/images/nationalGeographic.png"
+        "image": "https://rigelapp.com/rigel-resources.github.io/sources/images/nationalGeographic.png",
+        "weight": 10
     },
     "Uffizi Galleries":{
-        "image": "https://rigelapp.com/rigel-resources.github.io/sources/images/uffiziGalleries.png"
+        "image": "https://rigelapp.com/rigel-resources.github.io/sources/images/uffiziGalleries.png",
+        "weight": 6
     }
 }
