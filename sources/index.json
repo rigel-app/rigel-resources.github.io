@@ -1,33 +1,39 @@
 {
-    "National Geographic":{
+    "National Geographic": {
         "image": "https://rigelapp.com/rigel-resources.github.io/sources/images/nationalGeographic.png",
-        "weight": 10
+        "weight": 10,
+        "categories": [
+            "History",
+            "Science"
+        ],
+        "hasSubscription": true
     },
-    "Uffizi Galleries":{
+    "Uffizi Galleries": {
         "image": "https://rigelapp.com/rigel-resources.github.io/sources/images/uffiziGalleries.png",
-        "weight": 6
+        "weight": 6,
+        "categories": [
+            "Art"
+        ]
     },
-    "Nautilus":{
+    "Nautilus": {
         "image": "https://rigelapp.com/rigel-resources.github.io/sources/images/nautilus.png",
-        "weight": 8
+        "weight": 8,
+        "hasSubscription": true
     },
-    "Following Hadrian":{
+    "Following Hadrian": {
         "image": "",
         "weight": 7
     },
-    "Sparkonit":{
+    "Sparkonit": {
         "image": "",
         "weight": 6
     },
-    "Science Focus":{
+    "Science Focus": {
         "image": "",
         "weight": 8
     },
-    "History Today":{
+    "History Today": {
         "image": "",
-        "weight":  10
+        "weight": 10
     }
-
-
-    
 }
