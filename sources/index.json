@@ -17,23 +17,90 @@
     },
     "Nautilus": {
         "image": "https://rigelapp.com/rigel-resources.github.io/sources/images/nautilus.png",
-        "weight": 8,
+        "weight": 9,
+        "categories": [
+            "Science"
+        ],
         "hasSubscription": true
-    },
-    "Following Hadrian": {
-        "image": "",
-        "weight": 7
-    },
-    "Sparkonit": {
-        "image": "",
-        "weight": 6
     },
     "Science Focus": {
         "image": "",
-        "weight": 8
+        "weight": 8,
+        "categories": [
+            "Science"
+        ],
+        "hasSubscription": false
+    },
+    "Weird Things": {
+        "image": "",
+        "weight": 8,
+        "categories": [
+            "Science"
+        ],
+        "hasSubscription": false
+    },
+    "Sky and Telescope": {
+        "image": "",
+        "weight": 8,
+        "categories": [
+            "Science"
+        ],
+        "hasSubscription": false
     },
     "History Today": {
         "image": "",
-        "weight": 10
+        "weight": 10,
+        "categories": [
+            "History"
+        ],
+        "hasSubscription": true
+    },
+    "Smithsonian Magazine": {
+        "image": "",
+        "weight": 8,
+        "categories": [
+            "History"
+        ],
+        "hasSubscription": false
+    },
+    "Archaeology": {
+        "image": "",
+        "weight": 7,
+        "categories": [
+            "History"
+        ],
+        "hasSubscription": false
+    },
+    "Entrepreneur": {
+        "image": "",
+        "weight": 9,
+        "categories": [
+            "Business"
+        ],
+        "hasSubscription": false
+    },
+    "Fast Company": {
+        "image": "",
+        "weight": 8,
+        "categories": [
+            "Business"
+        ],
+        "hasSubscription": false
+    },
+    "Startups Magazine": {
+        "image": "",
+        "weight": 8,
+        "categories": [
+            "Business"
+        ],
+        "hasSubscription": false
+    },
+    "Forbes": {
+        "image": "",
+        "weight": 8,
+        "categories": [
+            "Business"
+        ],
+        "hasSubscription": false
     }
 }
