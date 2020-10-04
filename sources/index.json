@@ -24,7 +24,7 @@
         "hasSubscription": true
     },
     "Science Focus": {
-        "image": "",
+        "image": "https://rigelapp.com/rigel-resources.github.io/sources/images/sciencefocus.png",
         "weight": 8,
         "categories": [
             "Science"
@@ -32,7 +32,7 @@
         "hasSubscription": false
     },
     "Weird Things": {
-        "image": "",
+        "image": "https://rigelapp.com/rigel-resources.github.io/sources/images/weirdthings.png",
         "weight": 8,
         "categories": [
             "Science"
@@ -40,7 +40,7 @@
         "hasSubscription": false
     },
     "Sky and Telescope": {
-        "image": "",
+        "image": "https://rigelapp.com/rigel-resources.github.io/sources/images/skyandtelescope.png",
         "weight": 8,
         "categories": [
             "Science"
@@ -56,10 +56,13 @@
         "hasSubscription": true
     },
     "Smithsonian Magazine": {
-        "image": "",
+        "image": "https://rigelapp.com/rigel-resources.github.io/sources/images/smithsonian.png",
         "weight": 8,
         "categories": [
-            "History"
+            "History",
+            "Science",
+            "Technology",
+            "Food"
         ],
         "hasSubscription": false
     },
@@ -100,6 +103,102 @@
         "weight": 8,
         "categories": [
             "Business"
+        ],
+        "hasSubscription": false
+    },
+    "Innovators Mag": {
+        "image": "",
+        "weight": 8,
+        "categories": [
+            "Technology"
+        ],
+        "hasSubscription": false
+    },
+    "MIT Technology Review": {
+        "image": "",
+        "weight": 8,
+        "categories": [
+            "Technology"
+        ],
+        "hasSubscription": true
+    },
+    "Offscreen": {
+        "image": "",
+        "weight": 8,
+        "categories": [
+            "Technology"
+        ],
+        "hasSubscription": false
+    },
+    "Venture Beat": {
+        "image": "",
+        "weight": 7,
+        "categories": [
+            "Technology"
+        ],
+        "hasSubscription": false
+    },
+    "Little White Lies": {
+        "image": "",
+        "weight": 9,
+        "categories": [
+            "Cinema"
+        ],
+        "hasSubscription": false
+    },
+    "BBC": {
+        "image": "",
+        "weight": 9,
+        "categories": [
+            "Cinema"
+        ],
+        "hasSubscription": false
+    },
+    "Empire": {
+        "image": "",
+        "weight": 8,
+        "categories": [
+            "Cinema"
+        ],
+        "hasSubscription": false
+    },
+    "Taste of Cinema": {
+        "image": "",
+        "weight": 8,
+        "categories": [
+            "Cinema"
+        ],
+        "hasSubscription": false
+    },
+    "Bon Appetit": {
+        "image": "",
+        "weight": 8,
+        "categories": [
+            "Food"
+        ],
+        "hasSubscription": false
+    },
+    "Clean Eating": {
+        "image": "",
+        "weight": 8,
+        "categories": [
+            "Food"
+        ],
+        "hasSubscription": false
+    },
+    "Eating Well": {
+        "image": "",
+        "weight": 8,
+        "categories": [
+            "Food"
+        ],
+        "hasSubscription": false
+    },
+    "Healthy" : {
+        "image": "",
+        "weight": 8,
+        "categories": [
+            "Food"
         ],
         "hasSubscription": false
     }
