@@ -13,7 +13,8 @@
         "weight": 6,
         "categories": [
             "Art"
-        ]
+        ],
+        "hasSubscription": false
     },
     "Nautilus": {
         "image": "https://rigelapp.com/rigel-resources.github.io/sources/images/nautilus.png",
@@ -48,7 +49,7 @@
         "hasSubscription": false
     },
     "History Today": {
-        "image": "",
+        "image": "https://rigelapp.com/rigel-resources.github.io/sources/images/HT.png",
         "weight": 10,
         "categories": [
             "History"
@@ -67,7 +68,7 @@
         "hasSubscription": false
     },
     "Archaeology": {
-        "image": "",
+        "image": "https://rigelapp.com/rigel-resources.github.io/sources/images/archaeology.png",
         "weight": 7,
         "categories": [
             "History"
@@ -75,7 +76,7 @@
         "hasSubscription": false
     },
     "Entrepreneur": {
-        "image": "",
+        "image": "https://rigelapp.com/rigel-resources.github.io/sources/images/entrepreneur.png",
         "weight": 9,
         "categories": [
             "Business"
@@ -83,7 +84,7 @@
         "hasSubscription": false
     },
     "Fast Company": {
-        "image": "",
+        "image": "https://rigelapp.com/rigel-resources.github.io/sources/images/fastcompany.png",
         "weight": 8,
         "categories": [
             "Business"
@@ -91,7 +92,7 @@
         "hasSubscription": false
     },
     "Startups Magazine": {
-        "image": "",
+        "image": "https://rigelapp.com/rigel-resources.github.io/sources/images/startupsmagazine.png",
         "weight": 8,
         "categories": [
             "Business"
@@ -99,7 +100,7 @@
         "hasSubscription": false
     },
     "Forbes": {
-        "image": "",
+        "image": "https://rigelapp.com/rigel-resources.github.io/sources/images/forbes.png",
         "weight": 8,
         "categories": [
             "Business"
@@ -107,7 +108,7 @@
         "hasSubscription": false
     },
     "Innovators Mag": {
-        "image": "",
+        "image": "https://rigelapp.com/rigel-resources.github.io/sources/images/innovatorsmag.png",
         "weight": 8,
         "categories": [
             "Technology"
@@ -115,7 +116,7 @@
         "hasSubscription": false
     },
     "MIT Technology Review": {
-        "image": "",
+        "image": "https://rigelapp.com/rigel-resources.github.io/sources/images/MIT.png",
         "weight": 8,
         "categories": [
             "Technology"
@@ -123,7 +124,7 @@
         "hasSubscription": true
     },
     "Offscreen": {
-        "image": "",
+        "image": "https://rigelapp.com/rigel-resources.github.io/sources/images/offscreen.png",
         "weight": 8,
         "categories": [
             "Technology"
@@ -131,7 +132,7 @@
         "hasSubscription": false
     },
     "Venture Beat": {
-        "image": "",
+        "image": "https://rigelapp.com/rigel-resources.github.io/sources/images/venturebeat.png",
         "weight": 7,
         "categories": [
             "Technology"
