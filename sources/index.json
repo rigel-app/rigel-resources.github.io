@@ -140,7 +140,7 @@
         "hasSubscription": false
     },
     "Little White Lies": {
-        "image": "",
+        "image": "https://rigelapp.com/rigel-resources.github.io/sources/images/lwl.png",
         "weight": 9,
         "categories": [
             "Cinema"
@@ -148,7 +148,7 @@
         "hasSubscription": false
     },
     "BBC": {
-        "image": "",
+        "image": "https://rigelapp.com/rigel-resources.github.io/sources/images/BBC.png",
         "weight": 9,
         "categories": [
             "Cinema"
@@ -156,7 +156,7 @@
         "hasSubscription": false
     },
     "Empire": {
-        "image": "",
+        "image": "https://rigelapp.com/rigel-resources.github.io/sources/images/empire.png",
         "weight": 8,
         "categories": [
             "Cinema"
@@ -172,7 +172,7 @@
         "hasSubscription": false
     },
     "Bon Appetit": {
-        "image": "",
+        "image": "https://rigelapp.com/rigel-resources.github.io/sources/images/bonappetit.png",
         "weight": 8,
         "categories": [
             "Food"
@@ -180,7 +180,7 @@
         "hasSubscription": false
     },
     "Clean Eating": {
-        "image": "",
+        "image": "https://rigelapp.com/rigel-resources.github.io/sources/images/cleaneating.png",
         "weight": 8,
         "categories": [
             "Food"
@@ -188,7 +188,7 @@
         "hasSubscription": false
     },
     "Eating Well": {
-        "image": "",
+        "image": "https://rigelapp.com/rigel-resources.github.io/sources/images/eatingwell.png",
         "weight": 8,
         "categories": [
             "Food"
@@ -196,7 +196,7 @@
         "hasSubscription": false
     },
     "Healthy" : {
-        "image": "",
+        "image": "ttps://rigelapp.com/rigel-resources.github.io/sources/images/healthy.png",
         "weight": 8,
         "categories": [
             "Food"
