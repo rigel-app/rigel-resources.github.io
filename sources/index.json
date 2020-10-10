@@ -8,14 +8,6 @@
         ],
         "hasSubscription": false
     },
-    "Uffizi Galleries": {
-        "image": "https://rigelapp.com/rigel-resources.github.io/sources/images/uffiziGalleries.png",
-        "weight": 6,
-        "categories": [
-            "Art"
-        ],
-        "hasSubscription": false
-    },
     "Nautilus": {
         "image": "https://rigelapp.com/rigel-resources.github.io/sources/images/nautilus.png",
         "weight": 9,
