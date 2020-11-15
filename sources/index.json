@@ -188,7 +188,7 @@
         "hasSubscription": false
     },
     "Healthy" : {
-        "image": "ttps://rigelapp.com/rigel-resources.github.io/sources/images/healthy.png",
+        "image": "https://rigelapp.com/rigel-resources.github.io/sources/images/healthy.png",
         "weight": 8,
         "categories": [
             "Food"
