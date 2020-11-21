@@ -194,5 +194,37 @@
             "Food"
         ],
         "hasSubscription": false
+    },
+    "Smarthistory" : {
+        "image": "https://rigelapp.com/rigel-resources.github.io/sources/images/smarthistory.jpg",
+        "weight": 10,
+        "categories": [
+            "Art"
+        ],
+        "hasSubscription": false
+    },
+    "Perspective" : {
+        "image": "https://rigelapp.com/rigel-resources.github.io/sources/images/perspective.jpg",
+        "weight": 7,
+        "categories": [
+            "Art"
+        ],
+        "hasSubscription": false
+    },
+    "Guggenheim Museum" : {
+        "image": "https://rigelapp.com/rigel-resources.github.io/sources/images/guggenheim.jpg",
+        "weight": 8,
+        "categories": [
+            "Art"
+        ],
+        "hasSubscription": false
+    },
+    "The Met Museum" : {
+        "image": "https://rigelapp.com/rigel-resources.github.io/sources/images/met.png",
+        "weight": 8,
+        "categories": [
+            "Art"
+        ],
+        "hasSubscription": false
     }
 }
