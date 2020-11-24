@@ -226,5 +226,13 @@
             "Art"
         ],
         "hasSubscription": false
+    },
+    "The National Gallery" : {
+        "image": "https://rigelapp.com/rigel-resources.github.io/sources/images/thenationalgallery.png",
+        "weight": 8,
+        "categories": [
+            "Art"
+        ],
+        "hasSubscription": false
     }
 }
