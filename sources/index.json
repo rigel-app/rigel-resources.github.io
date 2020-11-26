@@ -234,5 +234,45 @@
             "Art"
         ],
         "hasSubscription": false
+    },
+    "The Museum of Modern Art" : {
+        "image": "https://rigelapp.com/rigel-resources.github.io/sources/images/moma.png",
+        "weight": 8,
+        "categories": [
+            "Art"
+        ],
+        "hasSubscription": false
+    },
+    "Victoria and Albert Museum" : {
+        "image": "https://rigelapp.com/rigel-resources.github.io/sources/images/vanda.jpg",
+        "weight": 8,
+        "categories": [
+            "Art"
+        ],
+        "hasSubscription": false
+    },
+    "Museo Nacional del Prado" : {
+        "image": "https://rigelapp.com/rigel-resources.github.io/sources/images/prado.jpg",
+        "weight": 8,
+        "categories": [
+            "Art"
+        ],
+        "hasSubscription": false
+    },
+    "Asian Art Museum" : {
+        "image": "https://rigelapp.com/rigel-resources.github.io/sources/images/asianartmuseum.jpg",
+        "weight": 8,
+        "categories": [
+            "Art"
+        ],
+        "hasSubscription": false
+    },
+    "Art Institute of Chicago" : {
+        "image": "https://rigelapp.com/rigel-resources.github.io/sources/images/artinstitutechicago.png",
+        "weight": 8,
+        "categories": [
+            "Art"
+        ],
+        "hasSubscription": false
     }
 }
