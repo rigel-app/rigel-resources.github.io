@@ -196,7 +196,7 @@
         "hasSubscription": false
     },
     "Smarthistory" : {
-        "image": "https://rigelapp.com/rigel-resources.github.io/sources/images/smarthistory.jpg",
+        "image": "https://yt3.ggpht.com/ytc/AAUvwnizm7vUSiRtDrtQ-_H3Mm0BRWXwVxzSucEmdtkOHQ",
         "weight": 10,
         "categories": [
             "Art"
@@ -204,7 +204,7 @@
         "hasSubscription": false
     },
     "Perspective" : {
-        "image": "https://rigelapp.com/rigel-resources.github.io/sources/images/perspective.jpg",
+        "image": "https://yt3.ggpht.com/ytc/AAUvwnhCg2m5gYKtZjJHIQ0ZVBP7yfRfKOZwDnLx3TwO",
         "weight": 7,
         "categories": [
             "Art"
@@ -212,7 +212,7 @@
         "hasSubscription": false
     },
     "Guggenheim Museum" : {
-        "image": "https://rigelapp.com/rigel-resources.github.io/sources/images/guggenheim.jpg",
+        "image": "https://yt3.ggpht.com/ytc/AAUvwnjLqmDJlAWR5aTas4133ua3PaKmPtc977kLYGxUKg",
         "weight": 8,
         "categories": [
             "Art"
@@ -220,7 +220,7 @@
         "hasSubscription": false
     },
     "The Met Museum" : {
-        "image": "https://rigelapp.com/rigel-resources.github.io/sources/images/met.png",
+        "image": "https://yt3.ggpht.com/ytc/AAUvwngNFbjGIda9VDeHshkrqGBiVa2oi9rKjXaomKfNSg",
         "weight": 8,
         "categories": [
             "Art"
@@ -228,7 +228,7 @@
         "hasSubscription": false
     },
     "The National Gallery" : {
-        "image": "https://rigelapp.com/rigel-resources.github.io/sources/images/thenationalgallery.png",
+        "image": "https://yt3.ggpht.com/ytc/AAUvwnhQtFdc11mEZ95_TFIDU3c5c8GDUuNDR91NiQ-HhU0",
         "weight": 8,
         "categories": [
             "Art"
@@ -236,7 +236,7 @@
         "hasSubscription": false
     },
     "The Museum of Modern Art" : {
-        "image": "https://rigelapp.com/rigel-resources.github.io/sources/images/moma.png",
+        "image": "https://yt3.ggpht.com/ytc/AAUvwnhetxVn7wvGeOWAPjvGofGBuubNydDM2XcK4K_mfg",
         "weight": 8,
         "categories": [
             "Art"
@@ -252,7 +252,7 @@
         "hasSubscription": false
     },
     "Museo Nacional del Prado" : {
-        "image": "https://rigelapp.com/rigel-resources.github.io/sources/images/prado.jpg",
+        "image": "https://yt3.ggpht.com/ytc/AAUvwniD9CDfQG05FhOPkJjfng_kbZ5zi4xipL8ChSktSA",
         "weight": 8,
         "categories": [
             "Art"
@@ -260,7 +260,7 @@
         "hasSubscription": false
     },
     "Asian Art Museum" : {
-        "image": "https://rigelapp.com/rigel-resources.github.io/sources/images/asianartmuseum.jpg",
+        "image": "https://yt3.ggpht.com/ytc/AAUvwngNVrWtZLT-aLW5kh_EQr_k4VDLpQznAlM3MShW",
         "weight": 8,
         "categories": [
             "Art"
@@ -268,10 +268,34 @@
         "hasSubscription": false
     },
     "Art Institute of Chicago" : {
-        "image": "https://rigelapp.com/rigel-resources.github.io/sources/images/artinstitutechicago.png",
+        "image": "https://yt3.ggpht.com/ytc/AAUvwng01wpMfvQZoO2dZ4ZsPa9FWqxtqp416VVO0HzDwg",
         "weight": 8,
         "categories": [
             "Art"
+        ],
+        "hasSubscription": false
+    },
+    "Biographics" : {
+        "image": "https://yt3.ggpht.com/ytc/AAUvwni4vTHLr3aLt_AQayqxzXxs2uC7R4nwo9LNusKj",
+        "weight": 8,
+        "categories": [
+            "History"
+        ],
+        "hasSubscription": false
+    },
+    "Science Magazine" : {
+        "image": "https://yt3.ggpht.com/ytc/AAUvwniTiCLKdyuqv3J-V7gF09FeTmG0WGn7ZccOhNgVrA",
+        "weight": 8,
+        "categories": [
+            "Science"
+        ],
+        "hasSubscription": false
+    },
+    "Scientific American" : {
+        "image": "https://yt3.ggpht.com/ytc/AAUvwngcZ6rZxlCfuCkAIb_1aliOknI12MXW0DIf-JXIig",
+        "weight": 8,
+        "categories": [
+            "Science"
         ],
         "hasSubscription": false
     }
