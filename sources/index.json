@@ -298,5 +298,14 @@
             "Science"
         ],
         "hasSubscription": false
+    },
+    "DW Documentary" : {
+        "image": "https://yt3.ggpht.com/ytc/AAUvwngZWs2Vbtw41me7gOZKheKBHJf74xjpLZ1pLqfrzA",
+        "weight": 8,
+        "categories": [
+            "History",
+            "Travel"
+        ],
+        "hasSubscription": false
     }
 }
