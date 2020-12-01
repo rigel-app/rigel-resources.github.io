@@ -307,5 +307,13 @@
             "Travel"
         ],
         "hasSubscription": false
+    },
+    "The San Diego Museum of Art" : {
+        "image": "https://yt3.ggpht.com/ytc/AAUvwniF23tAd1X00nhIcNk5KwQOvP57IGlDqKclLVhwDw",
+        "weight": 7,
+        "categories": [
+            "Art"
+        ],
+        "hasSubscription": false
     }
 }
