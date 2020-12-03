@@ -315,5 +315,21 @@
             "Art"
         ],
         "hasSubscription": false
+    },
+    "Invicta" : {
+        "image": "https://yt3.ggpht.com/ytc/AAUvwnhrFhZN2NcXyqaGmkBmdKjmpMmpzhj0yH8qLT0ioQ",
+        "weight": 8,
+        "categories": [
+            "History"
+        ],
+        "hasSubscription": false
+    },
+    "Epic History TV" : {
+        "image": "https://yt3.ggpht.com/ytc/AAUvwnhWCQDtKSrSZGMc4oFXg6g-HWvNcQEnwPcruw9w6A",
+        "weight": 8,
+        "categories": [
+            "History"
+        ],
+        "hasSubscription": false
     }
 }
