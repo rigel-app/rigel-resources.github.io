@@ -331,5 +331,29 @@
             "History"
         ],
         "hasSubscription": false
+    },
+    "Science Channel" : {
+        "image": "https://yt3.ggpht.com/ytc/AAUvwnhJPgjiU9bXFmjdptd4z9PWIDV8gLDzYPHJNeeB8w",
+        "weight": 7,
+        "categories": [
+            "Science"
+        ],
+        "hasSubscription": false
+    },
+    "Vsauce" : {
+        "image": "https://yt3.ggpht.com/ytc/AAUvwnhZ3RdTd90CWLjszcugYGMU4I72zJAVkphAfSflTQ",
+        "weight": 7,
+        "categories": [
+            "Science"
+        ],
+        "hasSubscription": false
+    },
+    "Ridddle" : {
+        "image": "https://yt3.ggpht.com/ytc/AAUvwnj1qe29UBNfdvLTqGjLxFxKX860L5hJ1H56OHw_2Q",
+        "weight": 8,
+        "categories": [
+            "Science"
+        ],
+        "hasSubscription": false
     }
 }
