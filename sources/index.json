@@ -355,5 +355,21 @@
             "Science"
         ],
         "hasSubscription": false
+    },
+    "MUBI" : {
+        "image": "https://yt3.ggpht.com/ytc/AAUvwnjYAGout1hxXQEhClMDEg0iTGYUfL9JZCLbeulkNA",
+        "weight": 8,
+        "categories": [
+            "Cinema"
+        ],
+        "hasSubscription": false
+    },
+    "Indiewire" : {
+        "image": "https://rigelapp.com/rigel-resources.github.io/sources/images/indiewire.png",
+        "weight": 8,
+        "categories": [
+            "Cinema"
+        ],
+        "hasSubscription": false
     }
 }
