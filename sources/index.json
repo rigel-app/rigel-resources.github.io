@@ -387,5 +387,33 @@
             "Science"
         ],
         "hasSubscription": false
+    },
+    "Mental Floss" : {
+        "image": "https://rigelapp.com/rigel-resources.github.io/sources/images/mf.png",
+        "weight": 7,
+        "categories": [
+            "History",
+            "Science"
+        ],
+        "hasSubscription": false
+    },
+    "Time" : {
+        "image": "https://rigelapp.com/rigel-resources.github.io/sources/images/time.png",
+        "weight": 8,
+        "categories": [
+            "History",
+            "Business"
+        ],
+        "hasSubscription": false
+    },
+    "The Atlantic" : {
+        "image": "https://rigelapp.com/rigel-resources.github.io/sources/images/atlantic.jpg",
+        "weight": 8,
+        "categories": [
+            "Science",
+            "Business",
+            "Literature"
+        ],
+        "hasSubscription": false
     }
 }
