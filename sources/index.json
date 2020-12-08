@@ -379,5 +379,13 @@
             "Science"
         ],
         "hasSubscription": false
+    },
+    "European Space Agency" : {
+        "image": "https://yt3.ggpht.com/ytc/AAUvwngZ1SqACTkAwlpA7pfAi639wnoS0yWCUJn9TOnDbDc",
+        "weight": 9,
+        "categories": [
+            "Science"
+        ],
+        "hasSubscription": false
     }
 }
