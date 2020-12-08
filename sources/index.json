@@ -371,5 +371,13 @@
             "Cinema"
         ],
         "hasSubscription": false
+    },
+    "Nasa" : {
+        "image": "https://yt3.ggpht.com/ytc/AAUvwnhTEa6kEyqgSvL3wMaMbUDZtyHvhXehJppDCeOGUCI",
+        "weight": 9,
+        "categories": [
+            "Science"
+        ],
+        "hasSubscription": false
     }
 }
