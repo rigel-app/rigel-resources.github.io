@@ -355,5 +355,73 @@
             "Science"
         ],
         "hasSubscription": false
+    },
+    "MUBI" : {
+        "image": "https://yt3.ggpht.com/ytc/AAUvwnjYAGout1hxXQEhClMDEg0iTGYUfL9JZCLbeulkNA",
+        "weight": 8,
+        "categories": [
+            "Cinema"
+        ],
+        "hasSubscription": false
+    },
+    "Indiewire" : {
+        "image": "https://rigelapp.com/rigel-resources.github.io/sources/images/indiewire.png",
+        "weight": 8,
+        "categories": [
+            "Cinema"
+        ],
+        "hasSubscription": false
+    },
+    "Nasa" : {
+        "image": "https://yt3.ggpht.com/ytc/AAUvwnhTEa6kEyqgSvL3wMaMbUDZtyHvhXehJppDCeOGUCI",
+        "weight": 9,
+        "categories": [
+            "Science"
+        ],
+        "hasSubscription": false
+    },
+    "European Space Agency" : {
+        "image": "https://yt3.ggpht.com/ytc/AAUvwngZ1SqACTkAwlpA7pfAi639wnoS0yWCUJn9TOnDbDc",
+        "weight": 9,
+        "categories": [
+            "Science"
+        ],
+        "hasSubscription": false
+    },
+    "Mental Floss" : {
+        "image": "https://rigelapp.com/rigel-resources.github.io/sources/images/mf.png",
+        "weight": 7,
+        "categories": [
+            "History",
+            "Science"
+        ],
+        "hasSubscription": false
+    },
+    "Time" : {
+        "image": "https://rigelapp.com/rigel-resources.github.io/sources/images/time.png",
+        "weight": 8,
+        "categories": [
+            "History",
+            "Business"
+        ],
+        "hasSubscription": false
+    },
+    "The Atlantic" : {
+        "image": "https://rigelapp.com/rigel-resources.github.io/sources/images/atlantic.jpg",
+        "weight": 8,
+        "categories": [
+            "Science",
+            "Business",
+            "Literature"
+        ],
+        "hasSubscription": false
+    },
+    "Bloomberg Markets and Finance" : {
+        "image": "https://yt3.ggpht.com/ytc/AAUvwnh6A8ynxR_x9SNF4j54cdKUIzwrvs9AOxpnC6M6",
+        "weight": 9,
+        "categories": [
+            "Business"
+        ],
+        "hasSubscription": false
     }
 }
