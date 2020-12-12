@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="2048px" height="2048px" viewBox="0 0 2048 2048" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>New Logo Library</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="2048" height="2048" rx="387"></rect>
+    </defs>
+    <g id="Logo" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="New-Logo-Library">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Rectangle" fill="#000000" xlink:href="#path-1"></use>
+            <g id="Group-5" mask="url(#mask-2)">
+                <g transform="translate(422.000000, 632.943190)" id="Rectangle">
+                    <rect fill="#FFFFFF" x="0" y="29" width="198" height="724" rx="99"></rect>
+                    <rect fill="#21A2ED" transform="translate(464.000000, 391.000000) rotate(20.000000) translate(-464.000000, -391.000000) " x="365" y="11" width="198" height="760" rx="99"></rect>
+                    <rect fill="#FFFFFF" x="1006" y="28" width="198" height="723" rx="99"></rect>
+                    <rect fill="#FFFFFF" x="730" y="28" width="198" height="723" rx="99"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
