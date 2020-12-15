@@ -390,7 +390,7 @@
     },
     "Mental Floss" : {
         "image": "https://rigelapp.com/rigel-resources.github.io/sources/images/mf.png",
-        "weight": 7,
+        "weight": 9,
         "categories": [
             "History",
             "Science"
