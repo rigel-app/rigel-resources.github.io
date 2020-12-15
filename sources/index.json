@@ -423,5 +423,21 @@
             "Business"
         ],
         "hasSubscription": false
+    },
+    "Fortune" : {
+        "image": "https://yt3.ggpht.com/ytc/AAUvwnhEg4mhNcmqPK_a_bCZHuwfQV63FjLrJgnB6qSzpQ",
+        "weight": 9,
+        "categories": [
+            "Business"
+        ],
+        "hasSubscription": false
+    },
+    "V101 Science" : {
+        "image": "https://yt3.ggpht.com/ytc/AAUvwnhGrse9DCWpmR5wVcrZW1tr2fKKVw7Ke8GDI6zsIA",
+        "weight": 9,
+        "categories": [
+            "Science"
+        ],
+        "hasSubscription": false
     }
 }
