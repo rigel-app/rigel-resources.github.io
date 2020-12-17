@@ -455,5 +455,13 @@
             "Business"
         ],
         "hasSubscription": false
+    },
+    "The Conversation" : {
+        "image": "https://rigelapp.com/rigel-resources.github.io/sources/images/theconversation.jpg",
+        "weight": 8,
+        "categories": [
+            "Business"
+        ],
+        "hasSubscription": false
     }
 }
