@@ -418,7 +418,7 @@
     },
     "Bloomberg Markets and Finance" : {
         "image": "https://yt3.ggpht.com/ytc/AAUvwnh6A8ynxR_x9SNF4j54cdKUIzwrvs9AOxpnC6M6",
-        "weight": 9,
+        "weight": 8,
         "categories": [
             "Business"
         ],
@@ -437,6 +437,22 @@
         "weight": 9,
         "categories": [
             "Science"
+        ],
+        "hasSubscription": false
+    },
+    "Inc." : {
+        "image": "https://yt3.ggpht.com/ytc/AAUvwngqoU_W4EZ25_nQbZea6QUzGtLQJTTvon6U7kLL7w",
+        "weight": 8,
+        "categories": [
+            "Business"
+        ],
+        "hasSubscription": false
+    },
+    "Financial Times" : {
+        "image": "https://yt3.ggpht.com/ytc/AAUvwnjNpYlOBxXyvAeDKLGMg2sEPn-ECGvU33PvoOeyiFk",
+        "weight": 8,
+        "categories": [
+            "Business"
         ],
         "hasSubscription": false
     }
