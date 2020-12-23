@@ -463,5 +463,21 @@
             "Business"
         ],
         "hasSubscription": false
+    },
+    "History Hit" : {
+        "image": "https://rigelapp.com/rigel-resources.github.io/sources/images/historyhit.jpg",
+        "weight": 9,
+        "categories": [
+            "History"
+        ],
+        "hasSubscription": false
+    },
+    "History Extra" : {
+        "image": "https://rigelapp.com/rigel-resources.github.io/sources/images/historyextra.jpg",
+        "weight": 9,
+        "categories": [
+            "History"
+        ],
+        "hasSubscription": false
     }
 }
