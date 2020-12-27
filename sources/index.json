@@ -458,9 +458,9 @@
     },
     "The Conversation" : {
         "image": "https://rigelapp.com/rigel-resources.github.io/sources/images/theconversation.jpg",
-        "weight": 8,
+        "weight": 9,
         "categories": [
-            "Business"
+            "Technology"
         ],
         "hasSubscription": false
     },
@@ -475,6 +475,14 @@
     "History Extra" : {
         "image": "https://rigelapp.com/rigel-resources.github.io/sources/images/historyextra.jpg",
         "weight": 9,
+        "categories": [
+            "History"
+        ],
+        "hasSubscription": false
+    },
+    "Sparkonit" : {
+        "image": "https://rigelapp.com/rigel-resources.github.io/sources/images/sparkonit.jpg",
+        "weight": 8,
         "categories": [
             "History"
         ],
