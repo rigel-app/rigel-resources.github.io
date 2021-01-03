@@ -496,11 +496,19 @@
         ],
         "hasSubscription": false
     },
-    "Recode" : {
+    "ReCode" : {
         "image": "https://rigelapp.com/rigel-resources.github.io/sources/images/recode.png",
         "weight": 8,
         "categories": [
             "Technology"
+        ],
+        "hasSubscription": false
+    },
+    "Serious Eats" : {
+        "image": "https://rigelapp.com/rigel-resources.github.io/sources/images/seriouseats.png",
+        "weight": 8,
+        "categories": [
+            "Food"
         ],
         "hasSubscription": false
     }
