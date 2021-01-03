@@ -487,5 +487,21 @@
             "History"
         ],
         "hasSubscription": false
+    },
+    "TechCrunch" : {
+        "image": "https://rigelapp.com/rigel-resources.github.io/sources/images/tc.png",
+        "weight": 8,
+        "categories": [
+            "Technology"
+        ],
+        "hasSubscription": false
+    },
+    "Recode" : {
+        "image": "https://rigelapp.com/rigel-resources.github.io/sources/images/recode.png",
+        "weight": 8,
+        "categories": [
+            "Technology"
+        ],
+        "hasSubscription": false
     }
 }
