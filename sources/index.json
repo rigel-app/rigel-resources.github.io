@@ -528,5 +528,37 @@
             "Travel"
         ],
         "hasSubscription": false
+    },
+    "The Georgia Review" : {
+        "image": "https://rigelapp.com/rigel-resources.github.io/sources/images/georgiareview.jpg",
+        "weight": 8,
+        "categories": [
+            "Literature"
+        ],
+        "hasSubscription": false
+    },
+    "The Paris Review" : {
+        "image": "https://rigelapp.com/rigel-resources.github.io/sources/images/parisreview.jpg",
+        "weight": 8,
+        "categories": [
+            "Literature"
+        ],
+        "hasSubscription": false
+    },
+    "The Kenyon Review" : {
+        "image": "https://rigelapp.com/rigel-resources.github.io/sources/images/kr.png",
+        "weight": 8,
+        "categories": [
+            "Literature"
+        ],
+        "hasSubscription": false
+    },
+    "Ploughshares" : {
+        "image": "https://rigelapp.com/rigel-resources.github.io/sources/images/ploughshares.jpg",
+        "weight": 8,
+        "categories": [
+            "Literature"
+        ],
+        "hasSubscription": false
     }
 }
