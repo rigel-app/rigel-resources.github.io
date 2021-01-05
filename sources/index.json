@@ -55,7 +55,8 @@
             "History",
             "Science",
             "Technology",
-            "Food"
+            "Food",
+            "Travel"
         ],
         "hasSubscription": false
     },
@@ -509,6 +510,22 @@
         "weight": 8,
         "categories": [
             "Food"
+        ],
+        "hasSubscription": false
+    },
+    "Lonely Planet" : {
+        "image": "https://rigelapp.com/rigel-resources.github.io/sources/images/lp.jpg",
+        "weight": 8,
+        "categories": [
+            "Travel"
+        ],
+        "hasSubscription": false
+    },
+    "Another Escape" : {
+        "image": "https://rigelapp.com/rigel-resources.github.io/sources/images/anotherescape.jpg",
+        "weight": 8,
+        "categories": [
+            "Travel"
         ],
         "hasSubscription": false
     }
