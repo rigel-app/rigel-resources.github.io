@@ -560,5 +560,14 @@
             "Literature"
         ],
         "hasSubscription": false
+    },
+    "Harvard Business Review" : {
+        "image": "https://rigelapp.com/rigel-resources.github.io/sources/images/hbr.png",
+        "weight": 8,
+        "categories": [
+            "Business",
+            "Technology"
+        ],
+        "hasSubscription": false
     }
 }
