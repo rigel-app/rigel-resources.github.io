@@ -569,5 +569,13 @@
             "Technology"
         ],
         "hasSubscription": true
+    },
+    "The White Review" : {
+        "image": "https://rigelapp.com/rigel-resources.github.io/sources/images/whitereview.jpg",
+        "weight": 8,
+        "categories": [
+            "Literature"
+        ],
+        "hasSubscription": false
     }
 }
