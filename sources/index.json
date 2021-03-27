@@ -577,5 +577,13 @@
             "Literature"
         ],
         "hasSubscription": false
+    },
+    "World History Encyclopedia" : {
+        "image": "https://rigelapp.com/rigel-resources.github.io/sources/images/ancienteu.png",
+        "weight": 8,
+        "categories": [
+            "History"
+        ],
+        "hasSubscription": false
     }
 }
