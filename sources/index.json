@@ -585,5 +585,13 @@
             "History"
         ],
         "hasSubscription": false
+    },
+    "Discover" : {
+        "image": "https://rigelapp.com/rigel-resources.github.io/sources/images/discover.png",
+        "weight": 8,
+        "categories": [
+            "Science"
+        ],
+        "hasSubscription": false
     }
 }
